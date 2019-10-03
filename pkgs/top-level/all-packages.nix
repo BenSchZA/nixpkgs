@@ -5447,6 +5447,8 @@ in
 
   phodav = callPackage ../tools/networking/phodav { };
 
+  pier = callPackage ../tools/misc/pier { };
+
   pinentry = callPackage ../tools/security/pinentry {
     libcap = if stdenv.isDarwin then null else libcap;
     gcr = null;
