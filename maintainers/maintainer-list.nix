@@ -943,6 +943,16 @@
     githubId = 442623;
     name = "Ben Pye";
   };
+  benschza = {
+    name = "Benjamin Scholtz";
+    email = "ben@bitsofether.com";
+    github = "BenSchZA";
+    githubId = 13078998;
+    keys = [{
+      longkeyid = "rsa2048/0x5D69CF7FA9C5E2A6";
+      fingerprint = "A3B6 2217 43B4 657C 685F  55BF 5D69 CF7F A9C5 E2A6";
+    }];
+  };
   benwbooth = {
     email = "benwbooth@gmail.com";
     github = "benwbooth";

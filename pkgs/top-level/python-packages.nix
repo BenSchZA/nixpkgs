@@ -564,6 +564,8 @@ in {
 
   cachy = callPackage ../development/python-modules/cachy { };
 
+  cadcad = callPackage ../development/python-modules/cadcad { };
+
   cadquery = callPackage ../development/python-modules/cadquery { };
 
   catalogue = callPackage ../development/python-modules/catalogue { };
